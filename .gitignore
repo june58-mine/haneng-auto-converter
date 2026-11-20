@@ -1,0 +1,7 @@
+dist/
+tools/
+*.exe
+*.log
+settings.ini
+.DS_Store
+Thumbs.db
